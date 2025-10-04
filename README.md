@@ -1,6 +1,6 @@
 # 🚀 Project SnapLink
 
-*A brief, one-sentence description of what your project does.*
+*Snaplink is a cross-device gesture router developed during the Qualcomm Multiverse Hackathon. It leverages camera-based gesture recognition to perform actions such as scrolling, volume control, and Do-Not-Disturb (DND) toggling on the host laptop and propagates the same actions seamlessly to connected devices (phones, tablets, etc.), enabling a unified multi-device interaction experience.*
 
 This guide provides all the necessary steps to set up the development environment and get the project running. This project uses a standard `src` layout for clean, maintainable code.
 
